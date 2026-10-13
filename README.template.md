@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="profile card" width="760" />
+<table align="center"><tr>
+<td><img src="assets/me,jpg" width="260" alt="portrait" /></td>
+<td><img src="assets/terminal.svg" width="640" alt="profile card" /></td>
+</tr></table>
 
 </div>
 
@@ -41,4 +44,4 @@ Hi, I'm **Pratik**, a final-year Computer Engineering student from India. I'm he
   <img src="assets/stats.svg" width="560" />
 </p>
 
-<p align="center"><sub>Auto-refreshed daily by GitHub Actions · @{{username}}</sub></p>
+<p align="center"><sub>Auto-refreshed every 12 hours by GitHub Actions · @{{username}}</sub></p>
