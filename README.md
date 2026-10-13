@@ -1,7 +1,7 @@
 <div align="center">
 
 <table align="center"><tr>
-<td><img src="assets/me,jpg" width="260" alt="portrait" /></td>
+<td><img src="assets/me.jpg" width="260" alt="portrait" /></td>
 <td><img src="assets/terminal.svg" width="640" alt="profile card" /></td>
 </tr></table>
 
