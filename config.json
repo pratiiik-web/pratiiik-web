@@ -12,8 +12,8 @@
     ["Core.ML", "scikit-learn · PyTorch · OpenCV"],
     ["Core.NLP", "Transformers · NLTK"],
     ["Core.Deploy", "Streamlit Cloud · GitHub Actions"],
-    ["Grid.LinkedIn", "/in/your-handle"],
-    ["Grid.GitHub", "your-username"],
+    ["Grid.LinkedIn", "https://www.linkedin.com/in/pratik-karale-25b7223b3"],
+    ["Grid.GitHub", "pratiiik-web"],
     ["Grid.Social", "@pratik.logs"]
   ],
   "footer_left": "ALL SYSTEMS NOMINAL",
