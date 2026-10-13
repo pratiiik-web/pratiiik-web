@@ -21,7 +21,7 @@ Hi, I'm **Pratik**, a final-year Computer Engineering student from India. I'm he
 <h3 align="center">my stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite,postgres,sklearn,numpy,pandas,pytorch,tensorflow,opencv,flask,linux,git,github,docker,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite,postgres,sklearn,pytorch,tensorflow,opencv,flask,linux,git,github,docker,vscode&perline=10" />
 </p>
 
 ---
