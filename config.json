@@ -1,0 +1,29 @@
+{
+  "username": "YOUR_GITHUB_USERNAME",
+  "title": "profile.sh --live",
+  "tag": "@pratik.logs",
+  "rows": [
+    ["Subject", "Pratik Karale"],
+    ["Role", "Aspiring Data Analyst · Data Engineer"],
+    ["Origin", "Pune, India"],
+    ["Education", "B.Tech Computer Engineering · Univ. of Mumbai"],
+    ["Status", "Building + Learning + Shipping"],
+    ["Core.Lang", "Python · SQL"],
+    ["Core.ML", "scikit-learn · PyTorch · OpenCV"],
+    ["Core.NLP", "Transformers · NLTK"],
+    ["Core.Deploy", "Streamlit Cloud · GitHub Actions"],
+    ["Grid.LinkedIn", "/in/your-handle"],
+    ["Grid.GitHub", "your-username"],
+    ["Grid.Social", "@pratik.logs"]
+  ],
+  "footer_left": "ALL SYSTEMS NOMINAL",
+  "footer_right": "UTC+5:30 · IN NODE",
+  "radar1": {
+    "title": "Skill Radar",
+    "axes": {"Python": 80, "SQL": 40, "ML": 70, "Computer Vision": 70, "NLP": 65, "Deployment": 70}
+  },
+  "radar2": {
+    "title": "Tooling Stack",
+    "axes": {"Pandas": 75, "Streamlit": 80, "PyTorch": 60, "OpenCV": 70, "Git": 65, "PostgreSQL": 35}
+  }
+}
