@@ -11,7 +11,7 @@
 Hi, I'm **Pratik**, a final-year Computer Engineering student from India. I'm heading into **data analyst / data engineer** roles first, with ML and data science as the long-term track.
 
 - 🎓 B.Tech Computer Engineering, University of Mumbai
-- 📊 Learning SQL hard right now, and building projects that go deep rather than wide
+- 📊 Turning raw data into insights: SQL, Python and dashboards, with every project deployed
 - 🤖 Deployed ML projects across tabular ML, computer vision and NLP (Streamlit)
 - 🚗 Real-time driver monitoring (DriverGuard), crop disease detection, and more
 - 💬 Ask me about ML projects, CV pipelines, or breaking into data roles
@@ -21,7 +21,7 @@ Hi, I'm **Pratik**, a final-year Computer Engineering student from India. I'm he
 <h3 align="center">my stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,postgres,pytorch,tensorflow,opencv,git,github,docker,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite,postgres,sklearn,numpy,pandas,pytorch,tensorflow,opencv,flask,linux,git,github,docker,vscode&perline=10" />
 </p>
 
 ---
