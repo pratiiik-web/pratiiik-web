@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pratiiik-web/pratiiik-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="assets/terminal.svg" alt="profile card" width="760" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## This is me :)
+
+Hi, I'm **Pratik**, a final-year Computer Engineering student from India. I'm heading into **data analyst / data engineer** roles first, with ML and data science as the long-term track.
+
+- 🎓 B.Tech Computer Engineering, University of Mumbai
+- 📊 Turning raw data into insights: SQL, Python and dashboards, with every project deployed
+- 🤖 Deployed ML projects across tabular ML, computer vision and NLP (Streamlit)
+- 🚗 Real-time driver monitoring (DriverGuard), crop disease detection, and more
+- 💬 Ask me about ML projects, CV pipelines, or breaking into data roles
+
+---
+
+<h3 align="center">my stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sqlite,postgres,sklearn,pytorch,tensorflow,opencv,flask,linux,git,github,docker,vscode&perline=10" />
+</p>
+
+---
+
+<h3 align="center">signals</h3>
+
+<p align="center">
+  <img src="assets/radar1.svg" width="48%" />
+  <img src="assets/radar2.svg" width="48%" />
+</p>
+
+---
+
+<h3 align="center">numbers matter? ohhh yes.</h3>
+
+<p align="center">
+  <img src="assets/stats.svg" width="560" />
+</p>
+
+<p align="center"><sub>Auto-refreshed daily by GitHub Actions · @pratiiik-web</sub></p>
